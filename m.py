@@ -1,4 +1,4 @@
-ʙᴏᴛɴᴇᴛ ꜱᴘʀᴇᴀᴅᴇʀ ✞☬:
+#ʙᴏᴛɴᴇᴛ ꜱᴘʀᴇᴀᴅᴇʀ ✞☬:
 #!/usr/bin/python3
 
 import telebot
